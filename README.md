@@ -1,2 +1,2 @@
 # Learn SQL
-Dokumentasi saya dalam belajar SQL
+Dokumentasi saya dalam belajar SQL.
