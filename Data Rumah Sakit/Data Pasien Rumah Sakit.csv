@@ -1,0 +1,349 @@
+No,No Register,Nama Pasien,Ruangan,Penyakit,Dokter Penanggung Jawab,Tanggal Masuk,Tanggal Keluar,Status
+1,2022/10/001,INDAH RATNA FURI     ,R15,Kanker ,"dr. Bambang Surif, Sp A    ",10/9/2022,10/24/2022,Sembuh
+2,2022/10/002,MUTIFANY CHAIRINA      ,R04,Asma,"dr. Martina Yulianti, Sp PD FINASIM  ",10/9/2022,10/10/2022,Sembuh
+3,2022/10/003,RUHUL JIHAD      ,R14,Kanker ,"dr. Aisyah Radiallah,",10/9/2022,10/23/2022,Sembuh
+4,2022/10/004,I KADEK AMERTA CANDRA ERDIKA   ,A05,Asma,"dr. Pipin Abdillah, Sp B   ",10/9/2022,10/21/2022,Meninggal
+5,2022/10/005,DEVI SEPTIANI      ,R10,Asma,"dr. Pipin Abdillah, Sp B   ",10/13/2022,10/23/2022,Sembuh
+6,2022/10/006,HANA FARADILA      ,P02,Stroke,"dr. Bernadeta Caroline Panjaitan,",10/13/2022,10/14/2022,Sembuh
+7,2022/10/007,ELIS ANITA SARI     ,R13,Asma,"dr. Irwan Daido, M. Kes",10/13/2022,10/23/2022,Sembuh
+8,2022/10/008,ARSYANNISA RAHMA      ,A08,Stroke,"dr. Martina Yulianti, Sp PD FINASIM  ",10/13/2022,10/24/2022,Sembuh
+9,2022/10/009,AISAH LATIFAH RAHMAH PUTRI    ,R11,Asma,"dr. Marthin Limba, Sp PD   ",10/15/2022,10/18/2022,Meninggal
+10,2022/10/010,LISNA SUMIATI      ,R06,THT,"dr. Marthin Limba, Sp PD   ",10/16/2022,10/17/2022,Sembuh
+11,2022/10/011,DWI ASIH RETNO PRATIWI    ,A06,THT,"dr. Bernardus Dirgantoro,",10/17/2022,10/27/2022,Meninggal
+12,2022/10/012,IMAM PRATOMO BUDI SANTOSO    ,R10,Kanker ,"dr. Pipin Abdillah, Sp B   ",10/18/2022,10/24/2022,Sembuh
+13,2022/10/013,ANDIKO PERDANA      ,R16,Kanker ,"dr. Marthin Limba, Sp PD   ",10/21/2022,10/31/2022,Sembuh
+14,2022/10/014,ADHISTY GUZNIARNY      ,A07,Asma,"dr. Martina Yulianti, Sp PD FINASIM  ",10/25/2022,11/1/2022,Meninggal
+15,2022/10/015,CAHYO KURNIAWAN SETIHADI     ,R06,Stroke,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",10/26/2022,11/10/2022,Sembuh
+16,2022/10/016,FIRDAUSY AMALINA ESYA     ,R04,Diabetes,"dr. Bambang Surif, Sp A    ",10/28/2022,11/1/2022,Sembuh
+17,2022/10/017,RAMA DILA YATI     ,R12,Diare,"dr. M Buchori,M,Sc,Sp A     ",10/28/2022,11/3/2022,Sembuh
+18,2022/10/018,MAHYUDIN DLY      ,R08,Diabetes,"dr. Martina Yulianti, Sp PD FINASIM  ",10/28/2022,10/30/2022,Sembuh
+19,2022/10/019,LIEKE AGRIJANTI MULJANTO     ,R13,Asma,"dr. Singgih Harmono, Sp B   ",10/30/2022,11/6/2022,Sembuh
+20,2022/11/020,MUHAMMAD BERNALDY      ,A02,Diabetes,"dr. Jemmy Aria Beny, Sp OG",11/1/2022,11/10/2022,Meninggal
+21,2022/11/021,DIMAS ALDI PATRIA     ,R03,Stroke,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",11/1/2022,11/6/2022,Sembuh
+22,2022/11/022,NAILAH       ,P03,Asma,"dr. Christofel Korah Tooy, Sp PD FINASIM ",11/2/2022,11/14/2022,Sembuh
+23,2022/11/023,AJENG SANTIARA      ,A10,Jantung,"dr. Jemmy Aria Beny, Sp OG",11/2/2022,11/11/2022,Sembuh
+24,2022/11/024,HENDOKO SATRIATAMA      ,R09,Stroke,dr. Yani Muvitasari SpPD    ,11/2/2022,11/12/2022,Sembuh
+25,2022/11/025,MEILINDA AYUNDYAHRINI      ,P03,Pnumonia,"dr. Singgih Harmono, Sp B   ",11/3/2022,11/8/2022,Meninggal
+26,2022/11/026,SYIFA NURINA HANUM     ,A09,Asma,"dr. Bambang Surif, Sp A    ",11/3/2022,11/16/2022,Sembuh
+27,2022/11/027,ZULEKHA       ,R05,Diare,"dr. Martina Yulianti, Sp PD FINASIM  ",11/4/2022,11/12/2022,Meninggal
+28,2022/11/028,DELOVITA GINTING      ,R15,Jantung,"dr. Hery Setyobudi, Sp A, M. Kes   ",11/4/2022,11/8/2022,Sembuh
+29,2022/11/029,SEPTIAN RAHMAT ADNAN     ,R16,Jantung,"dr. Jemmy Aria Beny, Sp OG",11/6/2022,11/19/2022,Sembuh
+30,2022/11/030,ROZA RUSPITA      ,R16,Stroke,"dr. Aisyah Radiallah,",11/9/2022,11/23/2022,Sembuh
+31,2022/11/031,ALIA AMRU FALISTIA     ,R13,Diabetes,"dr. Aisyah Radiallah,",11/9/2022,11/22/2022,Sembuh
+32,2022/11/032,MEILINA PARWA KRISTININGRUM     ,R09,THT,"dr. Bernadeta Caroline Panjaitan,",11/9/2022,11/22/2022,Meninggal
+33,2022/11/033,DIAN GITA SARI     ,A03,Pnumonia,"dr. Bambang Surif, Sp A    ",11/13/2022,11/27/2022,Sembuh
+34,2022/11/034,PUTRI HELSARINI      ,R01,Pnumonia,"dr. Bernardus Dirgantoro,",11/14/2022,11/23/2022,Sembuh
+35,2022/11/035,ANITA YULIVIANA      ,P03,Tifus,"dr. Anton Komala,Sp.PD     ",11/15/2022,11/21/2022,Meninggal
+36,2022/11/036,VICKO B NASSER     ,R03,Tifus,"dr. Irwan Daido, M. Kes",11/15/2022,11/17/2022,Sembuh
+37,2022/11/037,ASRIE KOESTANTINI      ,A01,Diare,"dr. Marthin Limba, Sp PD   ",11/16/2022,11/18/2022,Sembuh
+38,2022/11/038,FITRIA RACHMAWATI DEWI     ,R13,Asma,"dr. Bambang Surif, Sp A    ",11/18/2022,11/23/2022,Meninggal
+39,2022/11/039,HILDA WATI NASUTION     ,R16,Diare,"dr. Irwan Daido, M. Kes",11/19/2022,11/22/2022,Sembuh
+40,2022/11/040,RASMIYANI       ,A01,Tifus,"dr. Jemmy Aria Beny, Sp OG",11/19/2022,11/24/2022,Sembuh
+41,2022/11/041,ELLISA KUSUMA DEWI     ,R06,Asma,"dr. Muhammad, Sp B, M. Si Med  ",11/21/2022,12/1/2022,Sembuh
+42,2022/11/042,DENNY OLLY POETIRAY     ,R13,Pnumonia,"dr. Martina Yulianti, Sp PD FINASIM  ",11/21/2022,12/2/2022,Sembuh
+43,2022/11/043,AHMAD YULIANTO      ,A07,Asma,"dr. Bernardus Dirgantoro,",11/24/2022,11/27/2022,Meninggal
+44,2022/11/044,JAROT PURNOMO      ,R16,Tifus,"dr. Aisyah Radiallah,",11/24/2022,12/1/2022,Sembuh
+45,2022/11/045,ARIFIN MUSTHAFA      ,R05,Diabetes,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",11/25/2022,11/30/2022,Sembuh
+46,2022/11/046,ROSALIA FATMA BAMIATI     ,A06,Jantung,"dr. Christofel Korah Tooy, Sp PD FINASIM ",11/25/2022,12/7/2022,Sembuh
+47,2022/11/047,SUPATMI       ,R01,Tifus,"dr. Aisyah Radiallah,",11/27/2022,11/29/2022,Meninggal
+48,2022/11/048,FIFI YULIA      ,R07,Asma,"dr. Muhammad, Sp B, M. Si Med  ",11/27/2022,12/7/2022,Sembuh
+49,2022/11/049,SAFITRI KURNIASARI      ,A07,Stroke,"dr. Irwan Daido, M. Kes",11/29/2022,12/10/2022,Sembuh
+50,2022/11/050,NETRA TUNINGTYAS      ,R02,Pnumonia,"dr. Pipin Abdillah, Sp B   ",11/30/2022,12/6/2022,Sembuh
+51,2022/12/051,OKTI MULYANI      ,P02,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",12/3/2022,12/6/2022,Sembuh
+52,2022/12/052,RIZQIYAH DAROJAH      ,A07,Asma,"dr. M Buchori,M,Sc,Sp A     ",12/3/2022,12/19/2022,Sembuh
+53,2022/12/053,HANNA VERONICA      ,R10,THT,"dr. Bernadeta Caroline Panjaitan,",12/4/2022,12/5/2022,Sembuh
+54,2022/12/054,PUSPITA NOOR PRATIWI     ,P04,Jantung,"dr. Rida Niradita W,SpPD    ",12/5/2022,12/10/2022,Sembuh
+55,2022/12/055,IKA KARLINA LAILA NUR SUCININGTYAS   ,A04,Diabetes,"dr. Martina Yulianti, Sp PD FINASIM  ",12/5/2022,12/6/2022,Sembuh
+56,2022/12/056,DIAN INDAH PERMATASARI     ,R13,Diabetes,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",12/7/2022,12/11/2022,Meninggal
+57,2022/12/057,YOGI DWISATRIA      ,R16,Kanker ,"dr. Bernadeta Caroline Panjaitan,",12/7/2022,12/22/2022,Sembuh
+58,2022/12/058,CISSI GUSTIANTI      ,R13,Diabetes,dr. Yani Muvitasari SpPD    ,12/9/2022,12/13/2022,Sembuh
+59,2022/12/059,FITRIA AISYIATI      ,R07,Diare,"dr. Pipin Abdillah, Sp B   ",12/9/2022,12/19/2022,Sembuh
+60,2022/12/060,BINAR LISTYANA SUROTO     ,R06,Stroke,"dr. Anton Komala,Sp.PD     ",12/10/2022,12/20/2022,Meninggal
+61,2022/12/061,EBITRA SITANGGANG      ,R05,Stroke,"dr. Martina Yulianti, Sp PD FINASIM  ",12/10/2022,12/20/2022,Sembuh
+62,2022/12/062,DEVI NIRMALAWATI      ,A02,Kanker ,"dr. Pipin Abdillah, Sp B   ",12/10/2022,12/13/2022,Meninggal
+63,2022/12/063,AHMAD ARMAN      ,R03,THT,dr. Yani Muvitasari SpPD    ,12/10/2022,12/22/2022,Sembuh
+64,2022/12/064,ZOHRI AZHARI      ,P04,Tifus,"dr. Aisyah Radiallah,",12/11/2022,12/23/2022,Sembuh
+65,2022/12/065,IMADUDDIN SUNNI      ,R13,Pnumonia,"dr. Singgih Harmono, Sp B   ",12/15/2022,12/30/2022,Sembuh
+66,2022/12/066,RESPITA MURTININGRUM      ,A03,Pnumonia,"dr. Martina Yulianti, Sp PD FINASIM  ",12/17/2022,12/28/2022,Sembuh
+67,2022/12/067,TAUFIK IMRON      ,R06,THT,"dr. Anton Komala,Sp.PD     ",12/17/2022,12/20/2022,Meninggal
+68,2022/12/068,RAKA TARUMA PERDANA MAHMUDI    ,R06,Stroke,"dr. Aisyah Radiallah,",12/20/2022,12/25/2022,Sembuh
+69,2022/12/069,INDRA HIKMAWAN      ,A09,Tifus,"dr. Martina Yulianti, Sp PD FINASIM  ",12/21/2022,12/27/2022,Meninggal
+70,2022/12/070,INTAN KURNIA PUTRI     ,R15,Kanker ,"dr. Bernadeta Caroline Panjaitan,",12/22/2022,1/4/2023,Sembuh
+71,2022/12/071,DISKA MAYANGSARI      ,R05,Stroke,"dr. Christofel Korah Tooy, Sp PD FINASIM ",12/23/2022,12/30/2022,Meninggal
+72,2022/12/072,SERA MERDEKANI      ,A10,Stroke,"dr. Martina Yulianti, Sp PD FINASIM  ",12/24/2022,1/8/2023,Sembuh
+73,2022/12/073,FUAD DWI ATMAJA     ,R15,Diare,"dr. Hery Setyobudi, Sp A, M. Kes   ",12/24/2022,12/30/2022,Sembuh
+74,2022/12/074,DWI HARDIKTIANINGRUM      ,R01,Kanker ,"dr. Irwan Daido, M. Kes",12/24/2022,1/8/2023,Meninggal
+75,2022/12/075,SUCI NATALIA      ,A06,Diabetes,"dr. Hery Setyobudi, Sp A, M. Kes   ",12/27/2022,12/31/2022,Sembuh
+76,2022/12/076,AMANDA MEIPUSPA NUSA     ,R15,Pnumonia,dr. Yani Muvitasari SpPD    ,12/31/2022,1/7/2023,Sembuh
+77,2023/01/077,RESITA ARUM FITRIA     ,R02,Asma,"dr. Marthin Limba, Sp PD   ",1/1/2023,1/4/2023,Sembuh
+78,2023/01/078,NOVITA AMIE LESTARI     ,A02,Asma,"dr. Muhammad, Sp B, M. Si Med  ",1/2/2023,1/5/2023,Meninggal
+79,2023/01/079,FIRMANSYAH WIDODO      ,R16,Diare,"dr. Rida Niradita W,SpPD    ",1/2/2023,1/14/2023,Sembuh
+80,2023/01/080,SUCI MARYAM AZMI LESTARI    ,P04,THT,"dr. Marthin Limba, Sp PD   ",1/2/2023,1/8/2023,Sembuh
+81,2023/01/081,NUR AFIFAH ZEN     ,A08,Stroke,"dr. Irwan Daido, M. Kes",1/3/2023,1/8/2023,Meninggal
+82,2023/01/082,RINA ARIANE      ,R10,Pnumonia,"dr. Christofel Korah Tooy, Sp PD FINASIM ",1/3/2023,1/15/2023,Sembuh
+83,2023/01/083,MUHAMAD RULIAWAN SALIM     ,P04,Jantung,"dr. Marthin Limba, Sp PD   ",1/4/2023,1/7/2023,Sembuh
+84,2023/01/084,NUREKA YULIANI      ,A04,Asma,"dr. Anton Komala,Sp.PD     ",1/4/2023,1/14/2023,Sembuh
+85,2023/01/085,KEMAS M ADRIAN     ,R02,Diare,"dr. Hery Setyobudi, Sp A, M. Kes   ",1/4/2023,1/15/2023,Sembuh
+86,2023/01/086,NURI WULANSARI      ,R10,Pnumonia,"dr. Aisyah Radiallah,",1/6/2023,1/17/2023,Sembuh
+87,2023/01/087,ARINTINA SRI MARADEWI     ,R06,Diare,"dr. Rida Niradita W,SpPD    ",1/7/2023,1/14/2023,Sembuh
+88,2023/01/088,ICHSAN NURDIANSYAH      ,R01,Jantung,"dr. Hery Setyobudi, Sp A, M. Kes   ",1/10/2023,1/12/2023,Meninggal
+89,2023/01/089,DIAN PRATIWI IRIYANTI     ,R02,Jantung,"dr. Bambang Surif, Sp A    ",1/10/2023,1/25/2023,Sembuh
+90,2023/01/090,UWAIS AL QARNI     ,R16,Diare,"dr. Rida Niradita W,SpPD    ",1/12/2023,1/15/2023,Sembuh
+91,2023/01/091,ARI PURNIAWAN      ,A10,Diare,"dr. Christofel Korah Tooy, Sp PD FINASIM ",1/12/2023,1/15/2023,Meninggal
+92,2023/01/092,RIDZKI ANGGRAENI DADANG     ,R12,Kanker ,"dr. M Buchori,M,Sc,Sp A     ",1/13/2023,1/23/2023,Meninggal
+93,2023/01/093,YOSSI MEIDA MALANDA     ,P01,Diare,"dr. Singgih Harmono, Sp B   ",1/14/2023,1/16/2023,Sembuh
+94,2023/01/094,RATIH DYAH PUSPITASARI     ,R07,Pnumonia,"dr. Anton Komala,Sp.PD     ",1/15/2023,1/18/2023,Meninggal
+95,2023/01/095,MIRA PUTRANTI      ,A09,THT,"dr. Singgih Harmono, Sp B   ",1/15/2023,1/26/2023,Sembuh
+96,2023/01/096,DHANU MAHADERA      ,R15,Asma,"dr. Singgih Harmono, Sp B   ",1/16/2023,1/24/2023,Sembuh
+97,2023/01/097,AHMAD FURKON      ,R15,Pnumonia,"dr. Singgih Harmono, Sp B   ",1/16/2023,1/23/2023,Sembuh
+98,2023/01/098,YOHANES PAMBUDI      ,A06,Kanker ,"dr. M Buchori,M,Sc,Sp A     ",1/18/2023,1/22/2023,Meninggal
+99,2023/01/099,IRMA REZQI YUNIAR     ,R15,Tifus,"dr. Martina Yulianti, Sp PD FINASIM  ",1/19/2023,2/3/2023,Sembuh
+100,2023/01/100,ANGGA DWI PUTRA     ,R04,Stroke,"dr. Pipin Abdillah, Sp B   ",1/20/2023,1/25/2023,Sembuh
+101,2023/01/101,ALFIANA HENDRAWATI      ,A08,THT,"dr. Aisyah Radiallah,",1/20/2023,1/25/2023,Meninggal
+102,2023/01/102,PINKAN PANGESTU PARAMESWARI     ,R12,Asma,"dr. M Buchori,M,Sc,Sp A     ",1/21/2023,2/2/2023,Sembuh
+103,2023/01/103,RIZKIE PUTRI APRIYANI     ,R05,THT,"dr. Irwan Daido, M. Kes",1/22/2023,1/24/2023,Sembuh
+104,2023/01/104,NIKEN MIEWAHYUNI      ,A03,Diare,"dr. Bernadeta Caroline Panjaitan,",1/22/2023,1/27/2023,Sembuh
+105,2023/01/105,CHAERUNISSA ARIWARDHANI      ,R03,Diare,"dr. Martina Yulianti, Sp PD FINASIM  ",1/23/2023,1/26/2023,Sembuh
+106,2023/01/106,ULFAH HUDAYAH NIZHAR     ,R14,Stroke,"dr. Jemmy Aria Beny, Sp OG",1/24/2023,2/9/2023,Sembuh
+107,2023/01/107,INTAN FITALIA      ,A04,THT,"dr. Bernardus Dirgantoro,",1/31/2023,2/13/2023,Meninggal
+108,2023/01/108,DENI NARESWARA DARMAWAN     ,R01,Diabetes,"dr. Marthin Limba, Sp PD   ",1/31/2023,2/4/2023,Sembuh
+109,2023/01/109,DERTAWARICH SILVERA      ,P03,Diabetes,"dr. Rida Niradita W,SpPD    ",1/31/2023,2/5/2023,Meninggal
+110,2023/02/110,YULIA AGUSTINA DALIMUNTHE     ,A06,Diabetes,"dr. Hery Setyobudi, Sp A, M. Kes   ",2/1/2023,2/2/2023,Sembuh
+111,2023/02/111,TETI TRINAYANTI      ,R09,Jantung,"dr. Bernadeta Caroline Panjaitan,",2/3/2023,2/17/2023,Meninggal
+112,2023/02/112,DEBRA ARLIN PUSPASARI     ,P02,Diabetes,"dr. Bernadeta Caroline Panjaitan,",2/3/2023,2/15/2023,Sembuh
+113,2023/02/113,ARI HANDAYANI      ,A05,Tifus,"dr. Bambang Surif, Sp A    ",2/4/2023,2/16/2023,Meninggal
+114,2023/02/114,ROILHAQ FEBTENIUSTA      ,R10,Kanker ,"dr. Jemmy Aria Beny, Sp OG",2/5/2023,2/16/2023,Meninggal
+115,2023/02/115,ANDI PUTRI AYUNINGTIAS     ,R06,Jantung,"dr. Bambang Surif, Sp A    ",2/6/2023,2/19/2023,Sembuh
+116,2023/02/116,NUR INNA ALFIANINDA     ,R01,Diare,"dr. Jemmy Aria Beny, Sp OG",2/7/2023,2/15/2023,Meninggal
+117,2023/02/117,ANA KUSUMAWATI      ,R05,Diabetes,dr. Susanti SpA      ,2/9/2023,2/10/2023,Sembuh
+118,2023/02/118,YASINTA DEWI      ,R05,Kanker ,"dr. Christofel Korah Tooy, Sp PD FINASIM ",2/9/2023,2/19/2023,Sembuh
+119,2023/02/119,RIRIN EKO SULISTYOWATI     ,R14,Diabetes,"dr. Rida Niradita W,SpPD    ",2/10/2023,2/25/2023,Sembuh
+120,2023/02/120,DYAH SETYANINGRUM      ,A10,Diare,"dr. Anton Komala,Sp.PD     ",2/14/2023,2/27/2023,Sembuh
+121,2023/02/121,DITA ANGGARINI      ,R11,Diabetes,"dr. Rida Niradita W,SpPD    ",2/14/2023,2/16/2023,Meninggal
+122,2023/02/122,GUSTAF KUSUMA PRADANA     ,P01,Kanker ,"dr. Pipin Abdillah, Sp B   ",2/15/2023,2/26/2023,Sembuh
+123,2023/02/123,INDAH SETIORINI      ,R07,Pnumonia,"dr. Aisyah Radiallah,",2/18/2023,2/26/2023,Sembuh
+124,2023/02/124,LISYA APRIANDINI      ,A04,Tifus,"dr. Irwan Daido, M. Kes",2/18/2023,2/23/2023,Sembuh
+125,2023/02/125,YUKE MARGARETHA SUPIT     ,R02,Diabetes,"dr. M Buchori,M,Sc,Sp A     ",2/20/2023,2/25/2023,Sembuh
+126,2023/02/126,MOCH IRSYAD MAHLAFI     ,R08,Stroke,"dr. M Buchori,M,Sc,Sp A     ",2/20/2023,3/2/2023,Meninggal
+127,2023/02/127,AYU HAPSARI      ,A10,Pnumonia,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",2/21/2023,2/28/2023,Sembuh
+128,2023/02/128,APIT NURMALASARI      ,R06,THT,"dr. Anton Komala,Sp.PD     ",2/22/2023,2/25/2023,Sembuh
+129,2023/02/129,ANNISA PUTRI LINTANG     ,R04,Jantung,"dr. Anton Komala,Sp.PD     ",2/22/2023,3/3/2023,Sembuh
+130,2023/02/130,WARISA KHAIRUNISAK      ,A06,THT,"dr. Martina Yulianti, Sp PD FINASIM  ",2/22/2023,3/3/2023,Meninggal
+131,2023/02/131,LUSIANA SYAWALINA HIDAYAT     ,R03,Jantung,"dr. Bernadeta Caroline Panjaitan,",2/23/2023,3/10/2023,Meninggal
+132,2023/02/132,ANDINA SUKMABUDIARTO      ,R15,THT,"dr. Bernadeta Caroline Panjaitan,",2/23/2023,2/26/2023,Sembuh
+133,2023/02/133,SEYSI LUPI WIARJANTI     ,A08,Tifus,"dr. Hery Setyobudi, Sp A, M. Kes   ",2/24/2023,3/10/2023,Sembuh
+134,2023/02/134,BINA LARASWATI      ,R02,Kanker ,"dr. Jemmy Aria Beny, Sp OG",2/25/2023,2/28/2023,Meninggal
+135,2023/02/135,ADITIA YUHANINDAR      ,R05,Kanker ,"dr. Aisyah Radiallah,",2/26/2023,3/1/2023,Sembuh
+136,2023/02/136,ANDREAS HERMADI      ,A01,Tifus,"dr. Singgih Harmono, Sp B   ",2/27/2023,3/11/2023,Sembuh
+137,2023/03/137,GRISMINA NURVANTIKA      ,R05,Jantung,"dr. M Buchori,M,Sc,Sp A     ",3/1/2023,3/7/2023,Sembuh
+138,2023/03/138,CHAIDIR ALI AKBAR     ,P04,Diabetes,"dr. Rida Niradita W,SpPD    ",3/4/2023,3/5/2023,Meninggal
+139,2023/03/139,KRISTANTO       ,A04,Diabetes,"dr. Muhammad, Sp B, M. Si Med  ",3/4/2023,3/9/2023,Sembuh
+140,2023/03/140,MAULANI ANIES SHIAMI     ,R06,Stroke,"dr. Jemmy Aria Beny, Sp OG",3/7/2023,3/9/2023,Meninggal
+141,2023/03/141,KARTIKA KUSUMANINGRUM      ,P02,Kanker ,"dr. Hery Setyobudi, Sp A, M. Kes   ",3/8/2023,3/11/2023,Sembuh
+142,2023/03/142,WIWID WIDHI ASTUTI     ,A10,Tifus,"dr. Hery Setyobudi, Sp A, M. Kes   ",3/9/2023,3/13/2023,Sembuh
+143,2023/03/143,ELLIZA TITIN GUMALASARI     ,R06,THT,"dr. Martina Yulianti, Sp PD FINASIM  ",3/9/2023,3/15/2023,Sembuh
+144,2023/03/144,KANISTRI PUJAYANTI      ,R10,Diare,dr. Susanti SpA      ,3/9/2023,3/10/2023,Meninggal
+145,2023/03/145,LUSY IMELDA SIAGIAN     ,R13,Stroke,"dr. Irwan Daido, M. Kes",3/10/2023,3/16/2023,Sembuh
+146,2023/03/146,HESTI PRATIWI      ,R15,Tifus,"dr. Bambang Surif, Sp A    ",3/10/2023,3/23/2023,Sembuh
+147,2023/03/147,INDAH KUSUMANINGRUM      ,R03,Asma,"dr. Aisyah Radiallah,",3/11/2023,3/22/2023,Meninggal
+148,2023/03/148,PIPIN SILVIA ANDRIYANI     ,R08,Diabetes,"dr. Bernardus Dirgantoro,",3/11/2023,3/13/2023,Meninggal
+149,2023/03/149,RENDIKA SINGGIH KURNIAWAN     ,A04,Asma,"dr. Pipin Abdillah, Sp B   ",3/12/2023,3/22/2023,Sembuh
+150,2023/03/150,METIK BEKTI SULISTIORINI     ,R10,Pnumonia,"dr. M Buchori,M,Sc,Sp A     ",3/15/2023,3/26/2023,Sembuh
+151,2023/03/151,FEBY KARMILA SARI     ,P02,Tifus,"dr. Bernadeta Caroline Panjaitan,",3/15/2023,3/29/2023,Meninggal
+152,2023/03/152,AHMAD HIDAYAT      ,R09,Kanker ,"dr. Irwan Daido, M. Kes",3/15/2023,3/30/2023,Sembuh
+153,2023/03/153,LANY ARSI DARYANI     ,A01,Jantung,"dr. Pipin Abdillah, Sp B   ",3/16/2023,3/24/2023,Sembuh
+154,2023/03/154,MEGA RUSITHA      ,R09,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",3/17/2023,3/22/2023,Sembuh
+155,2023/03/155,HIMAWAN PRASETYO      ,R02,Diabetes,"dr. Irwan Daido, M. Kes",3/20/2023,3/31/2023,Sembuh
+156,2023/03/156,NURFIKA RAMDANI      ,A02,Tifus,"dr. Singgih Harmono, Sp B   ",3/21/2023,3/30/2023,Sembuh
+157,2023/03/157,ANOFRILLA       ,R08,Asma,"dr. Bernadeta Caroline Panjaitan,",3/21/2023,4/3/2023,Sembuh
+158,2023/03/158,BAGAS NOVENDRA MULYABITAMA     ,R16,Diabetes,"dr. M Buchori,M,Sc,Sp A     ",3/22/2023,3/25/2023,Meninggal
+159,2023/03/159,ALTI MURDIKA      ,A01,Diare,"dr. Aisyah Radiallah,",3/26/2023,3/29/2023,Sembuh
+160,2023/03/160,MAURINDA SAFITRI      ,R03,Diabetes,"dr. Bernardus Dirgantoro,",3/26/2023,3/30/2023,Sembuh
+161,2023/03/161,SELVI KUSUMASTUTI      ,R16,Diare,"dr. Singgih Harmono, Sp B   ",3/28/2023,4/7/2023,Meninggal
+162,2023/03/162,BAYU SENTANY      ,A10,Tifus,"dr. Jemmy Aria Beny, Sp OG",3/28/2023,3/30/2023,Sembuh
+163,2023/03/163,MAYA KUSUMA WARDANI     ,R16,Diare,"dr. Jemmy Aria Beny, Sp OG",3/28/2023,4/2/2023,Meninggal
+164,2023/03/164,LEADER FIRSTANDIKA      ,R14,Asma,"dr. M Buchori,M,Sc,Sp A     ",3/29/2023,4/14/2023,Sembuh
+165,2023/03/165,MUHAMMAD FAJAR TAUFIK     ,A08,Asma,dr. Yani Muvitasari SpPD    ,3/30/2023,4/2/2023,Sembuh
+166,2023/03/166,DIAN MARTHARINI      ,R12,Jantung,"dr. Martina Yulianti, Sp PD FINASIM  ",3/30/2023,4/9/2023,Sembuh
+167,2023/03/167,STEFANI PRIMA DIAS KRISTIANA    ,P02,Diabetes,"dr. Singgih Harmono, Sp B   ",3/30/2023,4/2/2023,Sembuh
+168,2023/04/168,DEBBY APRILIANI      ,A08,Diare,"dr. Bernadeta Caroline Panjaitan,",4/2/2023,4/13/2023,Sembuh
+169,2023/04/169,HAMDAN P PURBA     ,R08,THT,"dr. Bambang Surif, Sp A    ",4/2/2023,4/16/2023,Sembuh
+170,2023/04/170,EKA CANDRA WAYANA     ,P01,Pnumonia,"dr. Martina Yulianti, Sp PD FINASIM  ",4/3/2023,4/10/2023,Meninggal
+171,2023/04/171,YANUAR EKO IRAWAN     ,A01,Tifus,"dr. Bambang Surif, Sp A    ",4/4/2023,4/9/2023,Sembuh
+172,2023/04/172,AKHMAD YUSUF      ,R12,Pnumonia,"dr. Aisyah Radiallah,",4/7/2023,4/10/2023,Sembuh
+173,2023/04/173,ALKY JATISANTOSOWIBOWO      ,R07,Diabetes,"dr. Muhammad, Sp B, M. Si Med  ",4/7/2023,4/22/2023,Sembuh
+174,2023/04/174,AZIZAH FITRIANI      ,R16,THT,"dr. Irwan Daido, M. Kes",4/7/2023,4/16/2023,Meninggal
+175,2023/04/175,ELLY NURLAILY      ,R02,Stroke,dr. Yani Muvitasari SpPD    ,4/9/2023,4/22/2023,Sembuh
+176,2023/04/176,ARIF RACHMAN      ,R04,THT,"dr. Singgih Harmono, Sp B   ",4/9/2023,4/13/2023,Meninggal
+177,2023/04/177,RACHMAT SAFII      ,R14,Tifus,"dr. Anton Komala,Sp.PD     ",4/12/2023,4/19/2023,Sembuh
+178,2023/04/178,ADI FITRA      ,A02,Kanker ,dr. Yani Muvitasari SpPD    ,4/13/2023,4/16/2023,Sembuh
+179,2023/04/179,ESTIRA WORO ASTRINI     ,R03,Diabetes,"dr. Rida Niradita W,SpPD    ",4/14/2023,4/24/2023,Sembuh
+180,2023/04/180,BRIAN AFRI KUNCORO     ,P03,Stroke,"dr. Bernardus Dirgantoro,",4/14/2023,4/18/2023,Meninggal
+181,2023/04/181,CATTELYA INDRA ADININGTYAS     ,R12,Asma,"dr. Bambang Surif, Sp A    ",4/15/2023,4/25/2023,Sembuh
+182,2023/04/182,NILA WULAN SARI     ,A08,Pnumonia,dr. Susanti SpA      ,4/15/2023,4/28/2023,Meninggal
+183,2023/04/183,SABRINA EDITHA PUTRI     ,R15,Tifus,"dr. Pipin Abdillah, Sp B   ",4/16/2023,4/18/2023,Sembuh
+184,2023/04/184,ELISA DEVI TRIYANINGSIH R P   ,R15,Kanker ,"dr. Singgih Harmono, Sp B   ",4/17/2023,4/21/2023,Meninggal
+185,2023/04/185,IDAYANA VALENTINA SAGALA     ,A10,Asma,"dr. Jemmy Aria Beny, Sp OG",4/19/2023,4/26/2023,Sembuh
+186,2023/04/186,AGNITA KUSUMA DEWI     ,R13,Pnumonia,"dr. Muhammad, Sp B, M. Si Med  ",4/21/2023,4/27/2023,Sembuh
+187,2023/04/187,NUR PUJI LESTARI     ,R11,Kanker ,"dr. Muhammad, Sp B, M. Si Med  ",4/22/2023,5/4/2023,Sembuh
+188,2023/04/188,MASITAH SALIM RAMBE     ,A02,Pnumonia,"dr. Christofel Korah Tooy, Sp PD FINASIM ",4/23/2023,5/8/2023,Sembuh
+189,2023/04/189,HELMI SOVIANA FIRDAUS     ,R04,Tifus,dr. Yani Muvitasari SpPD    ,4/24/2023,5/3/2023,Meninggal
+190,2023/04/190,GITA WIDEANI      ,R05,Asma,"dr. Jemmy Aria Beny, Sp OG",4/27/2023,5/3/2023,Sembuh
+191,2023/04/191,BISMO ADITYO      ,A10,Jantung,"dr. Hery Setyobudi, Sp A, M. Kes   ",4/28/2023,5/3/2023,Sembuh
+192,2023/04/192,DICKO BRI ANOKI     ,R02,Tifus,"dr. Singgih Harmono, Sp B   ",4/29/2023,5/13/2023,Meninggal
+193,2023/04/193,NURUL FITRIA      ,R10,Stroke,"dr. Rida Niradita W,SpPD    ",4/29/2023,5/9/2023,Sembuh
+194,2023/05/194,DIATMIKA YOGA PERMANA     ,A05,Stroke,"dr. Rida Niradita W,SpPD    ",5/1/2023,5/6/2023,Sembuh
+195,2023/05/195,MUHAMMAD IBNU UBAIDILLAH     ,R14,Diabetes,"dr. M Buchori,M,Sc,Sp A     ",5/2/2023,5/13/2023,Sembuh
+196,2023/05/196,TANIA OKTABRI KHARISMA     ,P03,Diabetes,"dr. Jemmy Aria Beny, Sp OG",5/3/2023,5/16/2023,Sembuh
+197,2023/05/197,ALDY MUSLIM PRASETYA     ,A02,Jantung,"dr. M Buchori,M,Sc,Sp A     ",5/5/2023,5/15/2023,Sembuh
+198,2023/05/198,MUHAMMAD YASIR      ,R03,Tifus,"dr. Bernardus Dirgantoro,",5/6/2023,5/9/2023,Meninggal
+199,2023/05/199,LINTANG KINANTI      ,P04,Pnumonia,"dr. Pipin Abdillah, Sp B   ",5/6/2023,5/12/2023,Sembuh
+200,2023/05/200,FUAD TARMIDZI      ,A03,Tifus,"dr. Bernardus Dirgantoro,",5/7/2023,5/16/2023,Meninggal
+201,2023/05/201,SINDY VERONA      ,R03,Tifus,dr. Susanti SpA      ,5/7/2023,5/16/2023,Sembuh
+202,2023/05/202,NAOMI DIAS LAKSITA DEWI    ,R07,THT,"dr. Rida Niradita W,SpPD    ",5/8/2023,5/19/2023,Meninggal
+203,2023/05/203,VITA ARUMDANI      ,R11,Stroke,"dr. Muhammad, Sp B, M. Si Med  ",5/8/2023,5/16/2023,Sembuh
+204,2023/05/204,IVAN BUDI SUSETYO     ,R04,Diare,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",5/9/2023,5/13/2023,Sembuh
+205,2023/05/205,DEWI SHALATI HASANAH     ,R10,Kanker ,"dr. Irwan Daido, M. Kes",5/9/2023,5/11/2023,Meninggal
+206,2023/05/206,KALAM TAMBAH TUA SIREGAR    ,R05,Diabetes,"dr. Bambang Surif, Sp A    ",5/11/2023,5/13/2023,Sembuh
+207,2023/05/207,NENNY MEIYANTI SITOMPUL     ,A05,Diabetes,"dr. Bernardus Dirgantoro,",5/11/2023,5/25/2023,Sembuh
+208,2023/05/208,SUSILO HADI DWIJATMOKO     ,R09,THT,dr. Susanti SpA      ,5/11/2023,5/20/2023,Sembuh
+209,2023/05/209,AFIFAH HIDAYATILLAH      ,P04,Diabetes,"dr. Martina Yulianti, Sp PD FINASIM  ",5/12/2023,5/19/2023,Sembuh
+210,2023/05/210,SHITA FAUZI      ,R12,Jantung,"dr. Rida Niradita W,SpPD    ",5/13/2023,5/25/2023,Sembuh
+211,2023/05/211,PUPUT NURAINI FAUZIYAH     ,A08,Asma,"dr. Marthin Limba, Sp PD   ",5/14/2023,5/23/2023,Meninggal
+212,2023/05/212,DAVID NICKO HARMANDITYA     ,R02,Stroke,"dr. Hery Setyobudi, Sp A, M. Kes   ",5/15/2023,5/16/2023,Sembuh
+213,2023/05/213,RESTIYANA AGUSTINE      ,R16,Stroke,"dr. Jemmy Aria Beny, Sp OG",5/17/2023,5/22/2023,Sembuh
+214,2023/05/214,YONA AMALYA      ,A06,Stroke,"dr. M Buchori,M,Sc,Sp A     ",5/17/2023,5/21/2023,Meninggal
+215,2023/05/215,PRIMA RAHANITA      ,R04,Stroke,"dr. Aisyah Radiallah,",5/17/2023,5/19/2023,Sembuh
+216,2023/05/216,RATIH OKTAVIANTI      ,R14,Asma,"dr. Aisyah Radiallah,",5/18/2023,6/1/2023,Meninggal
+217,2023/05/217,RAFIEK ISMAIL      ,A01,Pnumonia,"dr. Bernadeta Caroline Panjaitan,",5/19/2023,5/28/2023,Sembuh
+218,2023/05/218,ISMI AINI NURPATRIA PUTRI    ,R16,Diare,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",5/20/2023,5/23/2023,Sembuh
+219,2023/05/219,RADEN RONI MUKHTAR TAUFIEQ    ,R05,Jantung,"dr. Hery Setyobudi, Sp A, M. Kes   ",5/23/2023,5/30/2023,Sembuh
+220,2023/05/220,YUSNI NUR AMALINA     ,A03,Stroke,"dr. Pipin Abdillah, Sp B   ",5/26/2023,5/29/2023,Sembuh
+221,2023/05/221,ELA NURLAELA      ,R03,Stroke,"dr. Muhammad, Sp B, M. Si Med  ",5/27/2023,6/6/2023,Sembuh
+222,2023/05/222,ANNISA BALQIS      ,R04,Asma,"dr. Bernadeta Caroline Panjaitan,",5/27/2023,6/6/2023,Sembuh
+223,2023/05/223,JUANDA REPUTRA      ,A09,Diare,"dr. Bernadeta Caroline Panjaitan,",5/28/2023,6/6/2023,Sembuh
+224,2023/05/224,DYAH HANIF CITRA NINGRUM    ,R07,Stroke,"dr. Anton Komala,Sp.PD     ",5/28/2023,6/9/2023,Sembuh
+225,2023/05/225,NURUL AFIFAH AZZAHRAH     ,P04,Diabetes,"dr. Christofel Korah Tooy, Sp PD FINASIM ",5/29/2023,5/30/2023,Meninggal
+226,2023/05/226,YULI LESTARI      ,A08,Kanker ,"dr. Hery Setyobudi, Sp A, M. Kes   ",5/30/2023,5/31/2023,Sembuh
+227,2023/05/227,STEPHANI LAURA SIANTURI     ,R02,Jantung,"dr. Martina Yulianti, Sp PD FINASIM  ",5/31/2023,6/10/2023,Sembuh
+228,2023/05/228,NANDITA HARMINA      ,P01,Kanker ,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",5/31/2023,6/14/2023,Sembuh
+229,2023/05/229,REFRIANI PEBRIA      ,A07,Stroke,"dr. Hery Setyobudi, Sp A, M. Kes   ",5/31/2023,6/12/2023,Meninggal
+230,2023/05/230,RESTY RAHMA WULAN     ,R13,Tifus,dr. Yani Muvitasari SpPD    ,5/31/2023,6/13/2023,Sembuh
+231,2023/06/231,MIFTHAMI RAMAH NURISHMAYA     ,R13,THT,"dr. M Buchori,M,Sc,Sp A     ",6/2/2023,6/11/2023,Sembuh
+232,2023/06/232,DEWI RAHMAWATI      ,R01,Kanker ,"dr. Irwan Daido, M. Kes",6/2/2023,6/8/2023,Sembuh
+233,2023/06/233,RETNO DYAH KUNTARI     ,R15,Diabetes,"dr. Irwan Daido, M. Kes",6/10/2023,6/25/2023,Sembuh
+234,2023/06/234,DEDI RESTIAWAN      ,R09,Asma,"dr. Martina Yulianti, Sp PD FINASIM  ",6/10/2023,6/17/2023,Sembuh
+235,2023/06/235,MELANIA PRISKA      ,R15,Diabetes,"dr. Christofel Korah Tooy, Sp PD FINASIM ",6/11/2023,6/18/2023,Meninggal
+236,2023/06/236,MURDIAH       ,A04,Asma,"dr. Jemmy Aria Beny, Sp OG",6/11/2023,6/17/2023,Sembuh
+237,2023/06/237,SITI NURHALIMAH      ,R01,Pnumonia,"dr. Marthin Limba, Sp PD   ",6/12/2023,6/24/2023,Sembuh
+238,2023/06/238,RIRI ASTARINA DESI RAHMANINA    ,P04,Kanker ,"dr. Rida Niradita W,SpPD    ",6/13/2023,6/14/2023,Meninggal
+239,2023/06/239,RAHADIAN SUMARSONO      ,R15,Pnumonia,"dr. Martina Yulianti, Sp PD FINASIM  ",6/13/2023,6/18/2023,Sembuh
+240,2023/06/240,TRI RAHARJO      ,A07,Diabetes,"dr. Bernardus Dirgantoro,",6/16/2023,6/23/2023,Sembuh
+241,2023/06/241,RONALD MUHAMMAD      ,R05,Diabetes,dr. Susanti SpA      ,6/17/2023,6/18/2023,Meninggal
+242,2023/06/242,DIAN KOMARA SENAGE     ,R03,Jantung,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",6/17/2023,6/30/2023,Sembuh
+243,2023/06/243,RIA KARTIKA DWIYANI     ,A06,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",6/17/2023,6/18/2023,Sembuh
+244,2023/06/244,NUARI WAHYU DWI CAHYANI    ,R14,Asma,"dr. Bernadeta Caroline Panjaitan,",6/19/2023,6/22/2023,Sembuh
+245,2023/06/245,SULUHATI KUSMAWARDI      ,R01,Asma,"dr. Singgih Harmono, Sp B   ",6/19/2023,6/23/2023,Sembuh
+246,2023/06/246,AYU MUTIARA ANNUR     ,A01,Stroke,"dr. Irwan Daido, M. Kes",6/20/2023,6/24/2023,Sembuh
+247,2023/06/247,THEISTA SAVANTY      ,R04,Tifus,"dr. Bernadeta Caroline Panjaitan,",6/20/2023,6/26/2023,Meninggal
+248,2023/06/248,RATIH DARMAYANTI      ,R09,Kanker ,"dr. Aisyah Radiallah,",6/20/2023,6/21/2023,Sembuh
+249,2023/06/249,DIAN INDRIANI      ,A07,Kanker ,"dr. Jemmy Aria Beny, Sp OG",6/20/2023,6/26/2023,Sembuh
+250,2023/06/250,CINDY ARIESTI KOESWARDANI     ,R09,Stroke,"dr. Rida Niradita W,SpPD    ",6/20/2023,6/25/2023,Meninggal
+251,2023/06/251,DENY NOR PRATIWI     ,R04,THT,"dr. Aisyah Radiallah,",6/21/2023,6/28/2023,Sembuh
+252,2023/06/252,NURAENI       ,A06,Diare,"dr. Bernadeta Caroline Panjaitan,",6/21/2023,6/28/2023,Meninggal
+253,2023/06/253,ISTIQOMAH       ,R01,Kanker ,"dr. Christofel Korah Tooy, Sp PD FINASIM ",6/22/2023,7/7/2023,Sembuh
+254,2023/06/254,IRYANTHI FARIDAH SAIFUL     ,P01,THT,"dr. Jemmy Aria Beny, Sp OG",6/23/2023,6/25/2023,Sembuh
+255,2023/06/255,EKA OKTAMIA HERWATI     ,A01,Pnumonia,dr. Yani Muvitasari SpPD    ,6/25/2023,7/3/2023,Sembuh
+256,2023/06/256,CAHYANING UMUL CHASANAH NURSYIFANI    ,R09,Stroke,"dr. Martina Yulianti, Sp PD FINASIM  ",6/25/2023,7/1/2023,Meninggal
+257,2023/06/257,DWI ISWANTI      ,P01,Diabetes,"dr. Christofel Korah Tooy, Sp PD FINASIM ",6/26/2023,7/7/2023,Sembuh
+258,2023/06/258,CHAIRUL FATTAH      ,A06,Jantung,dr. Yani Muvitasari SpPD    ,6/27/2023,7/7/2023,Sembuh
+259,2023/07/259,AMALIA KUSUMANINGRUM      ,R04,Stroke,"dr. Martina Yulianti, Sp PD FINASIM  ",7/3/2023,7/8/2023,Meninggal
+260,2023/07/260,ANDI SUGANDI      ,R14,Tifus,"dr. Pipin Abdillah, Sp B   ",7/5/2023,7/12/2023,Sembuh
+261,2023/07/261,YUDI MARSAHID      ,R03,Tifus,"dr. Bambang Surif, Sp A    ",7/6/2023,7/8/2023,Sembuh
+262,2023/07/262,GUSTA DWI ATMOKO     ,R03,Tifus,"dr. Christofel Korah Tooy, Sp PD FINASIM ",7/9/2023,7/14/2023,Sembuh
+263,2023/07/263,STEPHANY M LAMBE     ,R02,Stroke,"dr. Bernardus Dirgantoro,",7/9/2023,7/12/2023,Sembuh
+264,2023/07/264,AYU CANDRA PURNAMA     ,R15,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",7/10/2023,7/16/2023,Meninggal
+265,2023/07/265,AMY KRISTIANA HUTABARAT     ,A01,Jantung,"dr. Marthin Limba, Sp PD   ",7/12/2023,7/25/2023,Sembuh
+266,2023/07/266,NADIA PUTRY UTAMI SUWANDI    ,R08,Asma,"dr. Marthin Limba, Sp PD   ",7/12/2023,7/18/2023,Meninggal
+267,2023/07/267,SESWILA DEFLIN      ,P02,Stroke,"dr. Anton Komala,Sp.PD     ",7/13/2023,7/17/2023,Sembuh
+268,2023/07/268,JENNY FITRIA      ,R05,THT,"dr. Aisyah Radiallah,",7/13/2023,7/18/2023,Meninggal
+269,2023/07/269,INDAH DEWI PUSPITASARI     ,A02,Diare,"dr. Martina Yulianti, Sp PD FINASIM  ",7/13/2023,7/22/2023,Sembuh
+270,2023/07/270,DWI SULISTIO PERMADI     ,R05,Asma,"dr. Irwan Daido, M. Kes",7/14/2023,7/16/2023,Sembuh
+271,2023/07/271,AFIF NAOFAL PRAMANA     ,R03,Diare,"dr. Jemmy Aria Beny, Sp OG",7/15/2023,7/22/2023,Sembuh
+272,2023/07/272,SRI MURNI      ,A01,Diare,"dr. Marthin Limba, Sp PD   ",7/16/2023,7/29/2023,Sembuh
+273,2023/07/273,OKTAVIA RISMAWATI      ,R16,Diabetes,"dr. Bambang Surif, Sp A    ",7/17/2023,7/23/2023,Meninggal
+274,2023/07/274,AGUS SUHERMAN      ,R14,Tifus,"dr. Singgih Harmono, Sp B   ",7/20/2023,7/22/2023,Sembuh
+275,2023/07/275,SEKAR KUSUMA DEWI     ,A07,Kanker ,"dr. Christofel Korah Tooy, Sp PD FINASIM ",7/21/2023,7/26/2023,Sembuh
+276,2023/07/276,NUR ALAWIYYAH      ,R10,Diare,"dr. Jemmy Aria Beny, Sp OG",7/21/2023,7/27/2023,Meninggal
+277,2023/07/277,KRISTANTO       ,R15,Diabetes,"dr. Hery Setyobudi, Sp A, M. Kes   ",7/22/2023,7/27/2023,Meninggal
+278,2023/07/278,MAULANI ANIES SHIAMI     ,A05,Diare,dr. Yani Muvitasari SpPD    ,7/23/2023,7/29/2023,Sembuh
+279,2023/07/279,KARTIKA KUSUMANINGRUM      ,R11,THT,"dr. Aisyah Radiallah,",7/25/2023,7/26/2023,Sembuh
+280,2023/07/280,WIWID WIDHI ASTUTI     ,R10,Pnumonia,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",7/26/2023,8/2/2023,Meninggal
+281,2023/07/281,ELLIZA TITIN GUMALASARI     ,A04,Pnumonia,"dr. M Buchori,M,Sc,Sp A     ",7/27/2023,7/29/2023,Sembuh
+282,2023/07/282,KANISTRI PUJAYANTI      ,R05,Asma,"dr. Pipin Abdillah, Sp B   ",7/27/2023,8/11/2023,Sembuh
+283,2023/07/283,LUSY IMELDA SIAGIAN     ,P04,Asma,"dr. Anton Komala,Sp.PD     ",7/27/2023,8/10/2023,Sembuh
+284,2023/07/284,HESTI PRATIWI      ,A08,Jantung,"dr. Martina Yulianti, Sp PD FINASIM  ",7/28/2023,8/9/2023,Meninggal
+285,2023/07/285,INDAH KUSUMANINGRUM      ,R02,Stroke,"dr. Muhammad, Sp B, M. Si Med  ",7/31/2023,8/10/2023,Sembuh
+286,2023/08/286,PIPIN SILVIA ANDRIYANI     ,P03,Jantung,dr. Susanti SpA      ,8/1/2023,8/16/2023,Sembuh
+287,2023/08/287,RENDIKA SINGGIH KURNIAWAN     ,A06,Tifus,dr. Susanti SpA      ,8/1/2023,8/9/2023,Meninggal
+288,2023/08/288,METIK BEKTI SULISTIORINI     ,R06,Stroke,"dr. Bernadeta Caroline Panjaitan,",8/2/2023,8/8/2023,Sembuh
+289,2023/08/289,FEBY KARMILA SARI     ,R12,Kanker ,"dr. Singgih Harmono, Sp B   ",8/4/2023,8/13/2023,Sembuh
+290,2023/08/290,AHMAD HIDAYAT      ,R15,Diabetes,"dr. Bambang Surif, Sp A    ",8/4/2023,8/11/2023,Meninggal
+291,2023/08/291,LANY ARSI DARYANI     ,R01,Diare,"dr. Bambang Surif, Sp A    ",8/10/2023,8/18/2023,Sembuh
+292,2023/08/292,MEGA RUSITHA      ,R15,Asma,"dr. Hery Setyobudi, Sp A, M. Kes   ",8/11/2023,,Active
+293,2023/08/293,HIMAWAN PRASETYO      ,R12,Tifus,"dr. Hery Setyobudi, Sp A, M. Kes   ",8/11/2023,8/26/2023,Sembuh
+294,2023/08/294,NURFIKA RAMDANI      ,A06,THT,"dr. Rida Niradita W,SpPD    ",8/12/2023,,Active
+295,2023/08/295,ANOFRILLA       ,R12,THT,"dr. Bernadeta Caroline Panjaitan,",8/12/2023,8/18/2023,Sembuh
+296,2023/08/296,BAGAS NOVENDRA MULYABITAMA     ,P03,Diabetes,"dr. Irwan Daido, M. Kes",8/13/2023,8/23/2023,Sembuh
+297,2023/08/297,ALTI MURDIKA      ,R11,Kanker ,"dr. Bambang Surif, Sp A    ",8/13/2023,,Active
+298,2023/08/298,MAURINDA SAFITRI      ,A02,Tifus,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",8/14/2023,8/26/2023,Sembuh
+299,2023/08/299,SELVI KUSUMASTUTI      ,R01,Kanker ,"dr. Rida Niradita W,SpPD    ",8/15/2023,,Active
+300,2023/08/300,BAYU SENTANY      ,R07,Stroke,"dr. Christofel Korah Tooy, Sp PD FINASIM ",8/22/2023,9/2/2023,Sembuh
+301,2023/08/301,MAYA KUSUMA WARDANI     ,A08,Pnumonia,"dr. Christofel Korah Tooy, Sp PD FINASIM ",8/22/2023,8/26/2023,Sembuh
+302,2023/08/302,LEADER FIRSTANDIKA      ,R03,Diare,"dr. Rida Niradita W,SpPD    ",8/23/2023,9/5/2023,Sembuh
+303,2023/08/303,MUHAMMAD FAJAR TAUFIK     ,R03,Stroke,"dr. Marthin Limba, Sp PD   ",8/24/2023,,Active
+304,2023/08/304,DIAN MARTHARINI      ,A01,Diare,"dr. Jemmy Aria Beny, Sp OG",8/25/2023,9/1/2023,Sembuh
+305,2023/08/305,STEFANI PRIMA DIAS KRISTIANA    ,R05,Pnumonia,"dr. Bernadeta Caroline Panjaitan,",8/25/2023,9/9/2023,Sembuh
+306,2023/08/306,DEBBY APRILIANI      ,R09,Jantung,dr. Susanti SpA      ,8/25/2023,8/30/2023,Sembuh
+307,2023/08/307,HAMDAN P PURBA     ,A08,THT,"dr. Christofel Korah Tooy, Sp PD FINASIM ",8/26/2023,,Active
+308,2023/08/308,EKA CANDRA WAYANA     ,R13,THT,"dr. Jemmy Aria Beny, Sp OG",8/28/2023,8/31/2023,Sembuh
+309,2023/08/309,YANUAR EKO IRAWAN     ,R15,Jantung,"dr. M Buchori,M,Sc,Sp A     ",8/28/2023,,Active
+310,2023/08/310,AKHMAD YUSUF      ,A10,Diare,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",8/29/2023,9/7/2023,Sembuh
+311,2023/08/311,ALKY JATISANTOSOWIBOWO      ,R06,Diabetes,"dr. Muhammad, Sp B, M. Si Med  ",8/30/2023,9/9/2023,Sembuh
+312,2023/08/312,AZIZAH FITRIANI      ,P03,Kanker ,dr. Yani Muvitasari SpPD    ,8/30/2023,,Active
+313,2023/08/313,ELLY NURLAILY      ,A03,Tifus,"dr. Jemmy Aria Beny, Sp OG",8/31/2023,9/4/2023,Sembuh
+314,2023/08/314,ARIF RACHMAN      ,R16,Tifus,"dr. Christofel Korah Tooy, Sp PD FINASIM ",8/31/2023,,Active
+315,2023/09/315,RACHMAT SAFII      ,P04,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",9/1/2023,9/16/2023,Sembuh
+316,2023/09/316,ADI FITRA      ,A04,Asma,dr. Susanti SpA      ,9/1/2023,9/10/2023,Sembuh
+317,2023/09/317,ESTIRA WORO ASTRINI     ,R03,Diare,"dr. Bambang Surif, Sp A    ",9/3/2023,9/14/2023,Sembuh
+318,2023/09/318,BRIAN AFRI KUNCORO     ,R11,THT,"dr. Rida Niradita W,SpPD    ",9/4/2023,,Active
+319,2023/09/319,CATTELYA INDRA ADININGTYAS     ,R06,THT,"dr. Bambang Surif, Sp A    ",9/5/2023,9/21/2023,Sembuh
+320,2023/09/320,NILA WULAN SARI     ,R05,Tifus,dr. Susanti SpA      ,9/9/2023,,Active
+321,2023/09/321,SABRINA EDITHA PUTRI     ,R03,Stroke,"dr. Aisyah Radiallah,",9/9/2023,9/21/2023,Sembuh
+322,2023/09/322,ELISA DEVI TRIYANINGSIH R P   ,R08,Stroke,"dr. Muhammad, Sp B, M. Si Med  ",9/11/2023,,Active
+323,2023/09/323,IDAYANA VALENTINA SAGALA     ,A02,THT,"dr. Singgih Harmono, Sp B   ",9/12/2023,,Active
+324,2023/09/324,AGNITA KUSUMA DEWI     ,R01,Jantung,dr. Yani Muvitasari SpPD    ,9/12/2023,9/21/2023,Sembuh
+325,2023/09/325,NUR PUJI LESTARI     ,P04,Kanker ,"dr. Anton Komala,Sp.PD     ",9/18/2023,9/27/2023,Sembuh
+326,2023/09/326,MASITAH SALIM RAMBE     ,R16,Tifus,"dr. Marthin Limba, Sp PD   ",9/19/2023,9/25/2023,Sembuh
+327,2023/09/327,HELMI SOVIANA FIRDAUS     ,R12,Diabetes,"dr. Rida Niradita W,SpPD    ",9/19/2023,,Active
+328,2023/09/328,GITA WIDEANI      ,R03,Stroke,"dr. Bernadeta Caroline Panjaitan,",9/20/2023,9/26/2023,Sembuh
+329,2023/09/329,BISMO ADITYO      ,R10,Tifus,"dr. Muhammad, Sp B, M. Si Med  ",9/20/2023,10/2/2023,Sembuh
+330,2023/09/330,DICKO BRI ANOKI     ,A09,Tifus,dr. Yani Muvitasari SpPD    ,9/21/2023,,Active
+331,2023/09/331,NURUL FITRIA      ,R03,Stroke,"dr. Bernadeta Caroline Panjaitan,",9/21/2023,9/25/2023,Sembuh
+332,2023/09/332,DIATMIKA YOGA PERMANA     ,R10,THT,"dr. Bambang Surif, Sp A    ",9/22/2023,,Active
+333,2023/09/333,MUHAMMAD IBNU UBAIDILLAH     ,A04,Pnumonia,"dr. Martina Yulianti, Sp PD FINASIM  ",9/23/2023,10/3/2023,Sembuh
+334,2023/09/334,TANIA OKTABRI KHARISMA     ,R14,Asma,"dr. Bambang Surif, Sp A    ",9/25/2023,,Active
+335,2023/09/335,ALDY MUSLIM PRASETYA     ,R13,Pnumonia,"dr. Bambang Surif, Sp A    ",9/25/2023,10/2/2023,Sembuh
+336,2023/09/336,MUHAMMAD YASIR      ,A06,Pnumonia,"dr. Aisyah Radiallah,",9/25/2023,,Active
+337,2023/09/337,LINTANG KINANTI      ,R15,Tifus,"dr. Hery Setyobudi, Sp A, M. Kes   ",9/28/2023,10/2/2023,Sembuh
+338,2023/09/338,FUAD TARMIDZI      ,R01,Pnumonia,"dr. Muhammad, Sp B, M. Si Med  ",9/29/2023,,Active
+339,2023/09/339,SINDY VERONA      ,A08,Asma,"dr. M Buchori,M,Sc,Sp A     ",9/29/2023,10/9/2023,Sembuh
+340,2023/09/340,NAOMI DIAS LAKSITA DEWI    ,R15,Jantung,"dr. Anton Komala,Sp.PD     ",9/30/2023,,Active
+341,2023/09/341,VITA ARUMDANI      ,P03,Diabetes,"dr. Martina Yulianti, Sp PD FINASIM  ",9/30/2023,10/2/2023,Sembuh
+342,2023/10/342,IVAN BUDI SUSETYO     ,R08,Kanker ,"dr. Bernardus Dirgantoro,",10/1/2023,,Active
+343,2023/10/343,DEWI SHALATI HASANAH     ,R09,THT,"dr. Muhammad Satriyo Wiryawan, Sp PD  ",10/1/2023,,Active
+344,2023/10/344,KALAM TAMBAH TUA SIREGAR    ,P04,Tifus,"dr. Hery Setyobudi, Sp A, M. Kes   ",10/4/2023,,Active
+345,2023/10/345,NENNY MEIYANTI SITOMPUL     ,A02,Pnumonia,"dr. Aisyah Radiallah,",10/6/2023,,Active
+346,2023/10/346,SUSILO HADI DWIJATMOKO     ,R02,Asma,"dr. Irwan Daido, M. Kes",10/7/2023,,Active
+347,2023/10/347,AFIFAH HIDAYATILLAH      ,R10,Diabetes,"dr. Singgih Harmono, Sp B   ",10/7/2023,10/8/2023,Sembuh
+348,2023/10/348,SHITA FAUZI      ,R11,Tifus,"dr. Bambang Surif, Sp A    ",10/8/2023,,Active
