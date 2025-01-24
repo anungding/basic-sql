@@ -1,4 +1,4 @@
-No,No Register,Nama Pasien,Ruangan,Penyakit,Dokter Penanggung Jawab,Tanggal Masuk,Tanggal Keluar,Status
+No,no_register,nama_pasien,ruangan,penyakit,dokter_penanggung_jawab,tanggal_masuk,tanggal_keluar,status
 1,2022/10/001,INDAH RATNA FURI     ,R15,Kanker ,"dr. Bambang Surif, Sp A    ",10/9/2022,10/24/2022,Sembuh
 2,2022/10/002,MUTIFANY CHAIRINA      ,R04,Asma,"dr. Martina Yulianti, Sp PD FINASIM  ",10/9/2022,10/10/2022,Sembuh
 3,2022/10/003,RUHUL JIHAD      ,R14,Kanker ,"dr. Aisyah Radiallah,",10/9/2022,10/23/2022,Sembuh
