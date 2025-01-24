@@ -1,2 +1,2 @@
-# SQL PEGADAIAN TRANSACTION
+# PEGADAIAN TRANSACTION
 Dokumentasi saya dalam belajar SQL.
