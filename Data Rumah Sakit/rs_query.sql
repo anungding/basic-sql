@@ -1,0 +1,6 @@
+-- 1. Total pasien dirawat
+-- 2. Jumlah pasien berdasarkan penyakit
+-- 3. Perbandingan pasien masuk dengan keluar
+-- 4. Jumlah pasien per ruangan R, A, P
+-- 5. Jumlah pasien per status
+-- 6. Jumlah dokter dengan pasien terbanyak
